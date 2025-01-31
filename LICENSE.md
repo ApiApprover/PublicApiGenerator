@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2015-2019 Jake Ginnivan
+Copyright (c) 2019-2025 Jake Ginnivan and PublicApiGenerator project contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
